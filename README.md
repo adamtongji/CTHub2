@@ -2,5 +2,5 @@ README
 ===========================
 
 #CTHub - Create Track Hub
-###Nov21, 2016 (Nov21, 2016), Yingxiang Li
+###Nov28, 2016 (Nov28, 2016), Adam revised
 
